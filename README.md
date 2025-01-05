@@ -1,16 +1,18 @@
-## Hi there 👋
+## 
 
-<!--
-**zfournierswire/zfournierswire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Zoe Fournier-Swire 😄
+🌟 Business and Analytics Enthusiast | USC Marshall Business Administration Student | Data Analyst
 
-Here are some ideas to get you started:
+👩‍💻 About Me: I’m currently pursuing a Bachelor of Science in Business Administration at the University of Southern California, with a minor in Applied Analytics and an emphasis in Finance. Passionate about leveraging data-driven insights to solve complex problems, I thrive on innovation and collaboration!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Professional Experience:
+Data Analytics Intern @ Guess Inc: ML for classification 
+
+🎯 My Stack:
+Data Science & Analytics: Python, SQL, Tableau, PowerBI, MongoDB, AWS/RDS, SAP BW/4HANA
+Machine Learning: NLP, predictive modeling, image classification
+
+💡 Projects & Leadership:
+Project Manager @ DataSC: Led a team to create a churn prediction ML model to enhance customer retention strategies.
+
+🌎 Connect with Me: Let’s collaborate and explore exciting opportunities! Check out my work and connect via LinkedIn.
